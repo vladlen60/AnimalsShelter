@@ -1,0 +1,12 @@
+AnimalId,AnimalType,AnimalName,AnimalAge,AnimalColor,FoodRestriction,AnimalDescription,OwnerPhoneNumber,InShelterState,IsValid
+NZH6KB,Bird,PikaBooo,100,,True,very very loud,"=""52342345349865""",CheckedIn,True
+QEJGZO,cat,MusjaMusja,56,,,,"=""2423445664545656""",CheckedIn,True
+QEJGZO,cat,Masija,0.400000006,white,True,cannot take milk,"=""3333334444555""",CheckedIn,True
+6K6D6G,snake,Shhhhhh,100,,,,"=""456467775757""",CheckedIn,True
+2A0123,Dog,Smushy,3.5,,True,,"=""121212333""",False,CheckedIn,True
+L5UMVR,Dog,Pokimon,3.70000005,white with curly,False,Nothing to add,"=""17782324455""",False,Returned,True
+1H01OJ,snake,Sneaky-Snaky-Bastard,,,,,"=""8888885555""",True,CheckedIn,True
+EU9LP1,Dog,Gabriela,4.5,,,,"=""6047231122""",True,CheckedIn,True
+V02HA5,Bird,Pirot,35,colorful,False,very loud,"=""17782321212""",False,CheckedIn,True
+V02HA5,Bird,Pirot,35,colorful,False,very loud,"=""17782321212""",False,CheckedIn,True
+QHV55W,Dog,ergdfgdf,456,,,,"=""45645646""",False,CheckedIn,True

@@ -1,0 +1,15 @@
+C:\src\QA Transition - Projects\Animal Shelter\AS.BL\obj\Debug\AS.BL.csprojAssemblyReference.cache
+C:\src\QA Transition - Projects\Animal Shelter\AS.BL\bin\Debug\AS.BL.exe
+C:\src\QA Transition - Projects\Animal Shelter\AS.BL\bin\Debug\AS.BL.pdb
+C:\src\QA Transition - Projects\Animal Shelter\AS.BL\bin\Debug\AS.Common.dll
+C:\src\QA Transition - Projects\Animal Shelter\AS.BL\bin\Debug\AS.Common.pdb
+C:\src\QA Transition - Projects\Animal Shelter\AS.BL\obj\Debug\AS.BL.csproj.CopyComplete
+C:\src\QA Transition - Projects\Animal Shelter\AS.BL\obj\Debug\AS.BL.exe
+C:\src\QA Transition - Projects\Animal Shelter\AS.BL\obj\Debug\AS.BL.pdb
+C:\src\QA Transition - Projects\Animal Shelter\AS.BL\bin\Debug\CsvHelper.dll
+C:\src\QA Transition - Projects\AnimalsShelter\AS.BL\bin\Debug\AS.BL.exe
+C:\src\QA Transition - Projects\AnimalsShelter\AS.BL\bin\Debug\AS.BL.pdb
+C:\src\QA Transition - Projects\AnimalsShelter\AS.BL\bin\Debug\CsvHelper.dll
+C:\src\QA Transition - Projects\AnimalsShelter\AS.BL\obj\Debug\AS.BL.csproj.CopyComplete
+C:\src\QA Transition - Projects\AnimalsShelter\AS.BL\obj\Debug\AS.BL.exe
+C:\src\QA Transition - Projects\AnimalsShelter\AS.BL\obj\Debug\AS.BL.pdb
