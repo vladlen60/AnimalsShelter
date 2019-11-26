@@ -1,6 +1,4 @@
 AnimalId,AnimalType,AnimalName,AnimalAge,AnimalColor,FoodRestriction,AnimalDescription,OwnerPhoneNumber,InShelterState,IsValid
-XDZEOR,dog,Shmunchi,4.5,,,,"=""677788787878""",Returned,True
-PQJHRQ,cat,Murka,3,grey,True,need more fish,"=""6047233344""",Returned,True
 NZH6KB,Bird,PikaBooo,100,,True,very very loud,"=""52342345349865""",CheckedIn,True
 QEJGZO,cat,MusjaMusja,56,,,,"=""2423445664545656""",CheckedIn,True
 QEJGZO,cat,Masija,0.400000006,white,True,cannot take milk,"=""3333334444555""",CheckedIn,True

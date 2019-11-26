@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AS.BL", "AS.BL\AS.BL.csproj", "{625B83A8-37FC-433C-B210-0C0519787B2A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalShelter.BizLogic", "AnimalShelter.BizLogic\AnimalShelter.BizLogic.csproj", "{625B83A8-37FC-433C-B210-0C0519787B2A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{6F5B3D6A-AE01-4B09-B8BB-E0C25F6C7565}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AS.BLTest", "Tests\AS.BLTest\AS.BLTest.csproj", "{25DC6DB3-E74A-4B31-BB16-421F772275B8}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{BEB89E8C-3ECC-4D0F-B0CA-3C9914898159}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalShelter.BizLogicTest", "Tests\AnimalShelter.BizLogicTest\AnimalShelter.BizLogicTest.csproj", "{25DC6DB3-E74A-4B31-BB16-421F772275B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
